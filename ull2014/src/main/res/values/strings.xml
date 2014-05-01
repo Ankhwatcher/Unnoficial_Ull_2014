@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ull</string>
+    <string name="title_section1">Monday</string>
+    <string name="title_section2">Tuesday</string>
+    <string name="title_section3">Wednesday</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

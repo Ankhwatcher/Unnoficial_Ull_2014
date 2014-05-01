@@ -1,0 +1,74 @@
+{
+  "Days": [
+    {
+      "Name": "Monday",
+      "Schedule": [
+        {
+          "Title": "Registration",
+          "StartTime": 12,
+          "EndTime": 14.5
+        },
+        {
+          "Title": "Keynote Sessions",
+          "StartTime": 14.5,
+          "EndTime": 17
+        },
+        {
+          "Title": "Chillout",
+          "StartTime": 17,
+          "EndTime": 19
+        },
+        {
+          "Title": "Dinner",
+          "StartTime": 19,
+          "EndTime": 21
+        },
+        {
+          "Title": "The Ull Show",
+          "StartTime": 21,
+          "EndTime": 23
+        }
+      ]
+    },
+    {
+      "Name": "Tuesday",
+      "Schedule": [
+        {
+          "Title": "Features Sessions",
+          "StartTime": 10,
+          "EndTime": 17
+        },
+        {
+          "Title": "Chillout",
+          "StartTime": 17,
+          "EndTime": 19
+        },
+        {
+          "Title": "Dinner",
+          "StartTime": 19,
+          "EndTime": 21
+        },
+        {
+          "Title": "Grubernote",
+          "StartTime": 21,
+          "EndTime": 22
+        }
+      ]
+    },
+    {
+      "Name": "Wednesday",
+      "Schedule": [
+        {
+          "Title": "Checkout",
+          "StartTime": 12,
+          "EndTime": 13.5
+        },
+        {
+          "Title": "BBQ",
+          "StartTime": 13.5,
+          "EndTime": 16
+        }
+      ]
+    }
+  ]
+}
